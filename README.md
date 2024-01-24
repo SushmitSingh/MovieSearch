@@ -1,9 +1,5 @@
 # MovieSearch
 
-# Movie Search App
-
-![App Logo](app_logo.png)
-
 ## Overview
 
 The Movie Search App is an Android application developed using the MVVM architecture, Retrofit for REST API integration, ViewBinding for efficient UI binding, and Navigation Component for navigation between screens. The app allows users to search for movies, view a paginated list of results, and access detailed information about each movie.
@@ -12,12 +8,12 @@ The Movie Search App is an Android application developed using the MVVM architec
 
 ### Movie List Screen
 
-![Movie List](screenshots/movie_list.png)
+![Movie List](WhatsApp%20Image%202024-01-24%20at%2017.25.59.jpeg)
 *Movie List: Users can search for movies and view a paginated list of results.*
 
 ### Movie Detail Screen
 
-![Movie Detail](screenshots/movie_detail.png)
+![Movie Detail](WhatsApp%20Image%202024-01-24%20at%2017.15.20.jpeg)
 *Movie Detail: Users can access detailed information about each movie.*
 
 ## Features
